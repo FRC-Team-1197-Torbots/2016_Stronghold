@@ -1,6 +1,7 @@
 package org.usfirst.frc.team1197.robot;
 
-import edu.wpi.first.wpilibj.CANTalon;
+import com.ctre.CANTalon;
+
 import edu.wpi.first.wpilibj.PIDOutput;
 
 public class TorCAN

@@ -1,7 +1,7 @@
 package org.usfirst.frc.team1197.robot;
+import com.ctre.CANTalon;
 
 import com.kauailabs.navx.frc.AHRS;
-import edu.wpi.first.wpilibj.CANTalon;
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.Timer;
 
